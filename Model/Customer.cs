@@ -63,5 +63,41 @@ namespace Testing_Git.Model
         /// Collection navigation property representing associated 
         /// </summary>
         public ICollection<Order151> Order151s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order6> Order6s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order16> Order16s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order177> Order177s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order106> Order106s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order156> Order156s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order746> Order746s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order116> Order116s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order161> Order161s { get; set; }
+        /// <summary>
+        /// Collection navigation property representing associated 
+        /// </summary>
+        public ICollection<Order167> Order167s { get; set; }
     }
 }
